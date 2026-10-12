@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Replace this URL with any aesthetic lofi/room pixel GIF or your own banner -->
-  <img src="https://media.giphy.com/media/WFgv3029ScqKzE4P77/giphy.gif" width="100%" alt="pixel header banner" />
+  <img src="[https://media.giphy.com/media/WFgv3029ScqKzE4P77/giphy.gif" width="100%" alt="pixel header banner](https://giphy.com/gifs/aesthetic-lofi-desktop-gioLPAqDRZjzYpmuCp)" />
 </div>
 
 <br/>
