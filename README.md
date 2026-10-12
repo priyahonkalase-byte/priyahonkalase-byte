@@ -82,3 +82,6 @@ I’m an Electronics & Computer Science undergrad operating purely on chaos, lou
 <p align="center">
   <i>ciao hope to meet again</i>
 </p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/prijy/prijy/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
