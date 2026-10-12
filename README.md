@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/gioLPAqDRZjzYpmuCp/giphy.gif" width="100%" alt="pixel header banner" />
+  <img src="[https://media.giphy.com/media/gioLPAqDRZjzYpmuCp/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFiYWNvZWdtNW5lMDJuN2IzdGVqaHdnZTRjZTRvNml3Ym9zYTV3cyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/lnq52t8atIw3m/giphy.gif)" width="100%" alt="pixel header banner" />
 </div>
 <br/>
 
