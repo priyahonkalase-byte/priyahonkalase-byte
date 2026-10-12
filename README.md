@@ -4,14 +4,14 @@
 <br/>
 
 
-# Hi, I'm Priya
+# Sup, I'm Priya
 
 
 I’m an Electronics & Computer Science undergrad operating purely on chaos, loud playlists, and the stubborn belief that anything can be automated or soldered. Most days, you’ll find me frankensteining raw ideas into digital concepts, flashing MicroPython onto microcontrollers, or writing Python scripts and local LLM workflows just so I never have to click a manual button twice and game develope like theres no tomorrow. When my laptop isn’t heating up the room from Blender renders or DaVinci Resolve timelines, I’m either obsessing over moody architecture in Roblox Studio or aggressively planning out my projects so everything gets time. I like my hardware tactile, my code functional, and my project builds just chaotic enough to stay interesting.
 
 ---
 
-### 🔮 A little about me
+###  A little about me
 -  **Major:** Electronics & Computer Science Engineering
 -  **Hardware Tinkerer:** Soldering circuits, programming microcontrollers, and driving NeoPixels with MicroPython
 -  **Workflow Automation:** Building local automation tools and running local models with Ollama & Python
@@ -19,7 +19,7 @@ I’m an Electronics & Computer Science undergrad operating purely on chaos, lou
 -  **Off-duty:** Holding down bomb sites as Killjoy and filming my projects
 
 ---
-### 🛠️ Tech & Tools I Work With
+###  Tech & Tools I Work With
 
 <p align="left">
   <!-- Code & Low-Level -->
@@ -47,7 +47,8 @@ I’m an Electronics & Computer Science undergrad operating purely on chaos, lou
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
 
-### 🚀 Projects & Prototypes
+---
+### Projects & Prototypes 
 
 | Project | What It Is |
 | :--- | :--- |
@@ -58,7 +59,7 @@ I’m an Electronics & Computer Science undergrad operating purely on chaos, lou
 
 ---
 
-### 📊 GitHub at a Glance
+### My Progress hehe
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=priyahonkalase-byte&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="49%" />
@@ -67,7 +68,7 @@ I’m an Electronics & Computer Science undergrad operating purely on chaos, lou
 
 ---
 
-### 🤝 Let's Connect
+### Wanna Connect?
 
 <p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
@@ -79,5 +80,5 @@ I’m an Electronics & Computer Science undergrad operating purely on chaos, lou
 </p>
 
 <p align="center">
-  <i>Thanks for stopping by ⚡</i>
+  <i>ciao hope to meet again</i>
 </p>
